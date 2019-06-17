@@ -1,0 +1,3 @@
+[submodule "boost_di"]
+	path = boost_di
+	url = git@github.com:boost-experimental/di.git
