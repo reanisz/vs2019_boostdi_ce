@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\github.com\reanisz\vs2019_boostdi_ce\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\github.com\reanisz\vs2019_boostdi_ce\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B9E2CD4-808F-3392-9CE9-DE747CB0832C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

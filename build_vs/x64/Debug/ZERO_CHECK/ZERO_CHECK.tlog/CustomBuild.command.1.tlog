@@ -1,0 +1,10 @@
+^C:\SRC\GITHUB.COM\REANISZ\VS2019_BOOSTDI_CE\BUILD_VS\CMAKEFILES\DD89BBEB78D2BB31105C2426DC3FA814\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/github.com/reanisz/vs2019_boostdi_ce -BC:/src/github.com/reanisz/vs2019_boostdi_ce/build_vs --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/src/github.com/reanisz/vs2019_boostdi_ce/build_vs/VS2019_boostdi_ce.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

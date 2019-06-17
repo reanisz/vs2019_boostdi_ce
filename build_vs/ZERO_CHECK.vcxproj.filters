@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\src\github.com\reanisz\vs2019_boostdi_ce\build_vs\CMakeFiles\dd89bbeb78d2bb31105c2426dc3fa814\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C69CE249-A74F-3E14-9A4E-756F3C2DFC37}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

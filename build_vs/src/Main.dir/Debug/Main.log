@@ -1,0 +1,5 @@
+﻿  main.cpp
+  'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\bin\HostX64\x64\CL.exe' で内部コンパイラ エラーが発生しました。
+      Visual C++ のサポート情報 コマンドを選択してください
+      ヘルプ メニュー、またはサポート情報のヘルプ ファイルを参照してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" はコード 2 を伴って終了しました。
